@@ -1,2 +1,2 @@
-# math_statistics_course
+# Math Statistics Course
 Math Statistics course HSE
